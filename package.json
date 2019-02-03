@@ -1,0 +1,17 @@
+{
+  "name": "grin-purchaser",
+  "version": "0.1.0",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "author": "AaronGreenspan",
+  "dependencies": {
+    "@types/bitcoinjs-lib": "^3.0.5",
+    "@types/node": "^7.0.16",
+    "bignumber.js": "^6.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^3.3.0",
+    "typescript": "^2.5.3"
+  }
+}
