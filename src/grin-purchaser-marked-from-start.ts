@@ -1,6 +1,6 @@
 const E_ = 0.36787944117
 
-export class GrinPurchaser {
+export class GrinPurchaserMarkedFromStart {
   private readonly totalDays: number
   private readonly quantsToSpend: QuantToSpend[] = [] // indexed by day
   private readonly prices: number[] = [] // indexed by day
